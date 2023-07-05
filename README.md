@@ -19,4 +19,9 @@ To solve the Sudoku puzzle, the solver explores different possible combinations 
 
 When you run the code, it will print the solved Sudoku board to the console. If there is a valid solution, the 2D array will contain digits from 1 to 9, satisfying all the constraints. If there is no valid solution for the given puzzle, the board will remain unchanged, indicating that the Sudoku puzzle is unsolvable.
 
-Overall, this Sudoku solver effectively demonstrates the power of backtracking algorithms in solving constraint satisfaction problems like Sudoku.![sudoku](https://github.com/kritika-das/Sudoku-Solver/assets/94691076/576eb415-e18a-4ecd-9451-fb700a5df9b9)
+Overall, this Sudoku solver effectively demonstrates the power of backtracking algorithms in solving constraint satisfaction problems like Sudoku.
+
+
+
+
+![sudoku](https://github.com/kritika-das/Sudoku-Solver/assets/94691076/576eb415-e18a-4ecd-9451-fb700a5df9b9)
